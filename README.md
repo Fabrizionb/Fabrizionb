@@ -3,14 +3,7 @@
 
 ### 📬 Find me at
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabrizio-bertolo/)](https://www.linkedin.com/in/fabrizio-bertolo)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabrizio1007@gmail.com)](mailto:fabrizio1007@gmail.com)
-
-### or 
-
-<a href="https://www.instagram.com/pasteldechoclito/"> <img align="left" alt="fabrizio's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a> <a href="https://discord.gg/mJTeST5Q"> <img align="left" alt="fabrizio's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /> </a>
-<br/><br/>
-
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabrizionbertolo@gmail.com)](mailto:fabrizionbertolo@gmail.com)
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. In the near future I would love building things that serve a great deal of purpose. <br/><br/>
@@ -28,7 +21,7 @@ I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with n
   - 🕹 Computer Games
   - 🛠 Tech Hardware and Software
 
-- 📙 Check out my [Linkedin Resume](https://www.linkedin.com/in/fabrizio-bertolo/) and my [Web Portfolio](https://fabrizionb.github.io/Portfolio/)
+- 📙 Check out my [Linkedin Resume](https://www.linkedin.com/in/fabrizio-bertolo/) and my [Web Portfolio](https://fabriziobertolo.vercel.app/)
 - 🎉 Fun-Fact: I ❤️ Universe & Video Games🚀 and watch a lot Sci-Fi and Fantasy Movies🎬
 
   
